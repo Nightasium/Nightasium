@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/fazil orucov](https://www.linkedin.com/in/fazil-orucov-51a13831a/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fazil orucov" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/nightasium" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nightasium" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/fazil-orucov-51a13831a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fazil orucov" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/27885628/nightasium" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nightasium" height="30" width="40" /></a>
 <a href="https://instagram.com/_o_r_u_c_o_v_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_o_r_u_c_o_v_" height="30" width="40" /></a>
 </p>
 
