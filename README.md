@@ -1,4 +1,4 @@
-[![MasterHead]( https://www.akkodis.com/-/media/project/akkodis/akkodis/images/campaign-images/front-end-web-developer.png?h=630&iar=0&w=1200&hash=F67CB3E101DC6B260B8E395FE0481F34)
+![MasterHead]([ https://www.akkodis.com/-/media/project/akkodis/akkodis/images/campaign-images/front-end-web-developer.png?h=630&iar=0&w=1200&hash=F67CB3E101DC6B260B8E395FE0481F34](https://www.michaelpage.com.sg/sites/michaelpage.com.sg/files/styles/advice_node_desktop/public/2022-05/Software%20Developer.jpg.webp?itok=4o_ISQn4))
 h1 align="center">Hi 👋, I'm Fazil Orucov</h1>
 <h3 align="center">A passionate Frontend developer from Azerbaijan</h3>
 
